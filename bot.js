@@ -97,6 +97,6 @@ client.on('ready', () => {
 });
 
 
-     client.login('NTI5NTc3MTQ1NTQ3MzU4MjI3.Dw0PgA.fB6_J61U6dhCm8PQkecr5yDOXv0')
+     client.login(process.env.BOT_TOKEN)
 
      
